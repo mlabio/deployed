@@ -1,0 +1,17 @@
+C:\Dev\Aret.API\Aret.Application\bin\Debug\net6.0\Aret.Application.deps.json
+C:\Dev\Aret.API\Aret.Application\bin\Debug\net6.0\Aret.Application.dll
+C:\Dev\Aret.API\Aret.Application\bin\Debug\net6.0\Aret.Application.pdb
+C:\Dev\Aret.API\Aret.Application\bin\Debug\net6.0\Aret.DATA.dll
+C:\Dev\Aret.API\Aret.Application\bin\Debug\net6.0\Aret.DATA.pdb
+C:\Dev\Aret.API\Aret.Application\obj\Debug\net6.0\Aret.Application.csproj.AssemblyReference.cache
+C:\Dev\Aret.API\Aret.Application\obj\Debug\net6.0\Aret.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Aret.API\Aret.Application\obj\Debug\net6.0\Aret.Application.AssemblyInfoInputs.cache
+C:\Dev\Aret.API\Aret.Application\obj\Debug\net6.0\Aret.Application.AssemblyInfo.cs
+C:\Dev\Aret.API\Aret.Application\obj\Debug\net6.0\Aret.Application.csproj.CoreCompileInputs.cache
+C:\Dev\Aret.API\Aret.Application\obj\Debug\net6.0\Aret.Application.csproj.CopyComplete
+C:\Dev\Aret.API\Aret.Application\obj\Debug\net6.0\Aret.Application.dll
+C:\Dev\Aret.API\Aret.Application\obj\Debug\net6.0\refint\Aret.Application.dll
+C:\Dev\Aret.API\Aret.Application\obj\Debug\net6.0\Aret.Application.pdb
+C:\Dev\Aret.API\Aret.Application\obj\Debug\net6.0\ref\Aret.Application.dll
+C:\Dev\Aret.API\Aret.Application\bin\Debug\net6.0\Aret.Helper.dll
+C:\Dev\Aret.API\Aret.Application\bin\Debug\net6.0\Aret.Helper.pdb

@@ -1,0 +1,15 @@
+C:\Dev\Deployed.API\Deployed.Helper\bin\Debug\net6.0\Deployed.Helper.deps.json
+C:\Dev\Deployed.API\Deployed.Helper\bin\Debug\net6.0\Deployed.Helper.dll
+C:\Dev\Deployed.API\Deployed.Helper\bin\Debug\net6.0\Deployed.Helper.pdb
+C:\Dev\Deployed.API\Deployed.Helper\obj\Debug\net6.0\Deployed.Helper.csproj.AssemblyReference.cache
+C:\Dev\Deployed.API\Deployed.Helper\obj\Debug\net6.0\Deployed.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Deployed.API\Deployed.Helper\obj\Debug\net6.0\Deployed.Helper.AssemblyInfoInputs.cache
+C:\Dev\Deployed.API\Deployed.Helper\obj\Debug\net6.0\Deployed.Helper.AssemblyInfo.cs
+C:\Dev\Deployed.API\Deployed.Helper\obj\Debug\net6.0\Deployed.Helper.csproj.CoreCompileInputs.cache
+C:\Dev\Deployed.API\Deployed.Helper\obj\Debug\net6.0\Deployed.Helper.dll
+C:\Dev\Deployed.API\Deployed.Helper\obj\Debug\net6.0\refint\Deployed.Helper.dll
+C:\Dev\Deployed.API\Deployed.Helper\obj\Debug\net6.0\Deployed.Helper.pdb
+C:\Dev\Deployed.API\Deployed.Helper\obj\Debug\net6.0\ref\Deployed.Helper.dll
+C:\Dev\Deployed.API\Deployed.Helper\bin\Debug\net6.0\Deployed.Data.dll
+C:\Dev\Deployed.API\Deployed.Helper\bin\Debug\net6.0\Deployed.Data.pdb
+C:\Dev\Deployed.API\Deployed.Helper\obj\Debug\net6.0\Deployed.Helper.csproj.CopyComplete

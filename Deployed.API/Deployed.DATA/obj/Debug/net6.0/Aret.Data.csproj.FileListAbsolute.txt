@@ -1,0 +1,14 @@
+C:\Dev\Aret.API\Aret.DATA\bin\Debug\net6.0\Aret.Data.deps.json
+C:\Dev\Aret.API\Aret.DATA\bin\Debug\net6.0\Aret.Data.dll
+C:\Dev\Aret.API\Aret.DATA\bin\Debug\net6.0\Aret.Data.pdb
+C:\Dev\Aret.API\Aret.DATA\obj\Debug\net6.0\Aret.Data.csproj.AssemblyReference.cache
+C:\Dev\Aret.API\Aret.DATA\obj\Debug\net6.0\Aret.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Aret.API\Aret.DATA\obj\Debug\net6.0\Aret.Data.AssemblyInfoInputs.cache
+C:\Dev\Aret.API\Aret.DATA\obj\Debug\net6.0\Aret.Data.AssemblyInfo.cs
+C:\Dev\Aret.API\Aret.DATA\obj\Debug\net6.0\Aret.Data.csproj.CoreCompileInputs.cache
+C:\Dev\Aret.API\Aret.DATA\obj\Debug\net6.0\Aret.Data.dll
+C:\Dev\Aret.API\Aret.DATA\obj\Debug\net6.0\refint\Aret.Data.dll
+C:\Dev\Aret.API\Aret.DATA\obj\Debug\net6.0\Aret.Data.pdb
+C:\Dev\Aret.API\Aret.DATA\obj\Debug\net6.0\ref\Aret.Data.dll
+C:\Dev\Aret.API\Aret.DATA\bin\Debug\net6.0\Aret.DATA.runtimeconfig.json
+C:\Dev\Aret.API\Aret.DATA\obj\Debug\net6.0\Aret.DATA.genruntimeconfig.cache

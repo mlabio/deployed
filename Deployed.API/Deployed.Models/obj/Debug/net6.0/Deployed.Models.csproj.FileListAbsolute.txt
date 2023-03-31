@@ -1,0 +1,15 @@
+C:\Dev\Deployed.API\Deployed.Models\bin\Debug\net6.0\Deployed.Models.deps.json
+C:\Dev\Deployed.API\Deployed.Models\bin\Debug\net6.0\Deployed.Models.dll
+C:\Dev\Deployed.API\Deployed.Models\bin\Debug\net6.0\Deployed.Models.pdb
+C:\Dev\Deployed.API\Deployed.Models\obj\Debug\net6.0\Deployed.Models.csproj.AssemblyReference.cache
+C:\Dev\Deployed.API\Deployed.Models\obj\Debug\net6.0\Deployed.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Deployed.API\Deployed.Models\obj\Debug\net6.0\Deployed.Models.AssemblyInfoInputs.cache
+C:\Dev\Deployed.API\Deployed.Models\obj\Debug\net6.0\Deployed.Models.AssemblyInfo.cs
+C:\Dev\Deployed.API\Deployed.Models\obj\Debug\net6.0\Deployed.Models.csproj.CoreCompileInputs.cache
+C:\Dev\Deployed.API\Deployed.Models\obj\Debug\net6.0\Deployed.Models.dll
+C:\Dev\Deployed.API\Deployed.Models\obj\Debug\net6.0\refint\Deployed.Models.dll
+C:\Dev\Deployed.API\Deployed.Models\obj\Debug\net6.0\Deployed.Models.pdb
+C:\Dev\Deployed.API\Deployed.Models\obj\Debug\net6.0\ref\Deployed.Models.dll
+C:\Dev\Deployed.API\Deployed.Models\bin\Debug\net6.0\Deployed.Data.dll
+C:\Dev\Deployed.API\Deployed.Models\bin\Debug\net6.0\Deployed.Data.pdb
+C:\Dev\Deployed.API\Deployed.Models\obj\Debug\net6.0\Deployed.Models.csproj.CopyComplete

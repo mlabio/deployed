@@ -1,0 +1,14 @@
+C:\Dev\Deployed.API\Deployed.DATA\bin\Debug\net6.0\Deployed.Data.deps.json
+C:\Dev\Deployed.API\Deployed.DATA\bin\Debug\net6.0\Deployed.Data.runtimeconfig.json
+C:\Dev\Deployed.API\Deployed.DATA\bin\Debug\net6.0\Deployed.Data.dll
+C:\Dev\Deployed.API\Deployed.DATA\bin\Debug\net6.0\Deployed.Data.pdb
+C:\Dev\Deployed.API\Deployed.DATA\obj\Debug\net6.0\Deployed.Data.csproj.AssemblyReference.cache
+C:\Dev\Deployed.API\Deployed.DATA\obj\Debug\net6.0\Deployed.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Deployed.API\Deployed.DATA\obj\Debug\net6.0\Deployed.Data.AssemblyInfoInputs.cache
+C:\Dev\Deployed.API\Deployed.DATA\obj\Debug\net6.0\Deployed.Data.AssemblyInfo.cs
+C:\Dev\Deployed.API\Deployed.DATA\obj\Debug\net6.0\Deployed.Data.csproj.CoreCompileInputs.cache
+C:\Dev\Deployed.API\Deployed.DATA\obj\Debug\net6.0\Deployed.Data.dll
+C:\Dev\Deployed.API\Deployed.DATA\obj\Debug\net6.0\refint\Deployed.Data.dll
+C:\Dev\Deployed.API\Deployed.DATA\obj\Debug\net6.0\Deployed.Data.pdb
+C:\Dev\Deployed.API\Deployed.DATA\obj\Debug\net6.0\Deployed.Data.genruntimeconfig.cache
+C:\Dev\Deployed.API\Deployed.DATA\obj\Debug\net6.0\ref\Deployed.Data.dll

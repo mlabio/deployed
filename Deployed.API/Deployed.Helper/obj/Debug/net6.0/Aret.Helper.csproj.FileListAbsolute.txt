@@ -1,0 +1,12 @@
+C:\Dev\Aret.API\Aret.Helper\bin\Debug\net6.0\Aret.Helper.deps.json
+C:\Dev\Aret.API\Aret.Helper\bin\Debug\net6.0\Aret.Helper.dll
+C:\Dev\Aret.API\Aret.Helper\bin\Debug\net6.0\Aret.Helper.pdb
+C:\Dev\Aret.API\Aret.Helper\obj\Debug\net6.0\Aret.Helper.csproj.AssemblyReference.cache
+C:\Dev\Aret.API\Aret.Helper\obj\Debug\net6.0\Aret.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Aret.API\Aret.Helper\obj\Debug\net6.0\Aret.Helper.AssemblyInfoInputs.cache
+C:\Dev\Aret.API\Aret.Helper\obj\Debug\net6.0\Aret.Helper.AssemblyInfo.cs
+C:\Dev\Aret.API\Aret.Helper\obj\Debug\net6.0\Aret.Helper.csproj.CoreCompileInputs.cache
+C:\Dev\Aret.API\Aret.Helper\obj\Debug\net6.0\Aret.Helper.dll
+C:\Dev\Aret.API\Aret.Helper\obj\Debug\net6.0\refint\Aret.Helper.dll
+C:\Dev\Aret.API\Aret.Helper\obj\Debug\net6.0\Aret.Helper.pdb
+C:\Dev\Aret.API\Aret.Helper\obj\Debug\net6.0\ref\Aret.Helper.dll
